@@ -1,0 +1,1135 @@
+{
+  "tokens": [
+    {
+      "name": "Text/Default",
+      "CSS": "--hmd-tw-text-default",
+      "description": "Use for emphasized text",
+      "lightValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Text/Emphasize",
+      "CSS": "--hmd-tw-text-emphasize",
+      "description": "Use for emphasized text",
+      "lightValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      },
+      "darkValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      }
+    },
+    {
+      "name": "Text/Primary",
+      "CSS": "--hmd-tw-text-primary",
+      "description": "Use for primary text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Text/Subtle",
+      "CSS": "--hmd-tw-text-subtle",
+      "description": "Use for subtitle text",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Text/Subtler",
+      "CSS": "--hmd-tw-text-subtler",
+      "description": "Use for subtle text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Background/Default",
+      "CSS": "--hmd-tw-background-default",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/25",
+        "value": "#fdfdfd"
+      },
+      "darkValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      }
+    },
+    {
+      "name": "Background/Subtle",
+      "CSS": "--hmd-tw-background-subtle",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Background/Subtler",
+      "CSS": "--hmd-tw-background-subtler",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/50",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Background/Sunken",
+      "CSS": "--hmd-tw-background-sunken",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/900",
+        "value": "#18181b"
+      }
+    },
+    {
+      "name": "Background/Primary/Default",
+      "CSS": "--hmd-tw-background-primary-default",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      }
+    },
+    {
+      "name": "Background/Primary/Focus",
+      "CSS": "--hmd-tw-background-primary-focus",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/800",
+        "value": "#2e01a5"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Background/Primary/Hover",
+      "CSS": "--hmd-tw-background-primary-hover",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/800",
+        "value": "#2e01a5"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Background/Primary/Disabled",
+      "CSS": "--hmd-tw-background-primary-disabled",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      },
+      "darkValue": {
+        "name": "#3932aa",
+        "value": "#3932aa"
+      }
+    },
+    {
+      "name": "Background/Primary/Subtle",
+      "CSS": "--hmd-tw-background-primary-subtle",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/100",
+        "value": "#cccafc"
+      },
+      "darkValue": {
+        "name": "#302d6a",
+        "value": "#302d6a"
+      }
+    },
+    {
+      "name": "Background/Primary/Subtler",
+      "CSS": "--hmd-tw-background-primary-subtler",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/50",
+        "value": "#ecebfe"
+      },
+      "darkValue": {
+        "name": "#2c2a4a",
+        "value": "#2c2a4a"
+      }
+    },
+    {
+      "name": "Background/Selected",
+      "CSS": "--hmd-tw-background-selected",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Background/Blur",
+      "CSS": "--hmd-tw-background-blur",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "rgba(253, 253, 253, .6)",
+        "value": "rgba(253, 253, 253, .6)"
+      },
+      "darkValue": {
+        "name": "rgba(39, 39, 42, .6)",
+        "value": "rgba(39, 39, 42, .6)"
+      }
+    },
+    {
+      "name": "Icon/Default",
+      "CSS": "--hmd-tw-icon-default",
+      "description": "Use for icons",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Icon/Disabled",
+      "CSS": "--hmd-tw-icon-disabled",
+      "description": "Use for disabled icons",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Icon/Emphasize",
+      "CSS": "--hmd-tw-icon-emphasize",
+      "description": "Use for emphasized icons",
+      "lightValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      },
+      "darkValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      }
+    },
+    {
+      "name": "Icon/Primary",
+      "CSS": "--hmd-tw-icon-primary",
+      "description": "Use for primary icons",
+      "lightValue": {
+        "name": "Text/Primary (Primary/500)",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Text/Primary (Primary/300)",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Icon/Subtle",
+      "CSS": "--hmd-tw-icon-subtle",
+      "description": "Use for subtle icons",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Icon/Subtler",
+      "CSS": "--hmd-tw-icon-subtler",
+      "description": "Use for subtitle icons",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Icon/Subtlest",
+      "CSS": "--hmd-tw-icon-subtlest",
+      "description": "Use for subtitle icons",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Border/Default",
+      "CSS": "--hmd-tw-border-default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Border/Bold",
+      "CSS": "--hmd-tw-border-bold",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Border/Subtle",
+      "CSS": "--hmd-tw-border-subtle",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Border/Subtler",
+      "CSS": "--hmd-tw-border-subtler",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Border/Subtlest",
+      "CSS": "--hmd-tw-border-subtlest",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Border/Primary/Default",
+      "CSS": "--hmd-tw-border-primary-default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Border/Primary/Focus",
+      "CSS": "--hmd-tw-border-primary-focus",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Border/Primary/Subtler",
+      "CSS": "--hmd-tw-border-primary-subtler",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Element/Bg/Default",
+      "CSS": "--hmd-tw-element-bg-default",
+      "description": "Use for element backgrounds",
+      "lightValue": {
+        "name": "White",
+        "value": "#ffffff"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Element/Bg/Disabled",
+      "CSS": "--hmd-tw-element-bg-disabled",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Element/Bg/Hover",
+      "CSS": "--hmd-tw-element-bg-hover",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Element/Border/Hover",
+      "CSS": "--hmd-tw-element-border-hover",
+      "description": "Use for hovered element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Focus",
+      "CSS": "--hmd-tw-element-border-focus",
+      "description": "Use for focused element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Disabled",
+      "CSS": "--hmd-tw-element-border-disabled",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Border/Subtler",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Border/Subtler",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Error",
+      "CSS": "--hmd-tw-element-border-error",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "Element/Text/Disabled",
+      "CSS": "--hmd-tw-element-text-disabled",
+      "description": "Use for disabled text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Text/Selected",
+      "CSS": "--hmd-tw-element-text-selected",
+      "description": "Use for selected text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Link-text/Default",
+      "CSS": "--hmd-tw-link-text-default",
+      "description": "Use for default link text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Link-text/Hover",
+      "CSS": "--hmd-tw-link-text-hover",
+      "description": "Use for hovered link text",
+      "lightValue": {
+        "name": "Primary/800",
+        "value": "#2e01a5"
+      },
+      "darkValue": {
+        "name": "Primary/200",
+        "value": "#b2abfb"
+      }
+    },
+    {
+      "name": "Link-text/Pressed",
+      "CSS": "--hmd-tw-link-text-pressed",
+      "description": "Use for pressed link text",
+      "lightValue": {
+        "name": "Primary/800",
+        "value": "#2e01a5"
+      },
+      "darkValue": {
+        "name": "Primary/200",
+        "value": "#b2abfb"
+      }
+    },
+    {
+      "name": "Raised/Bg/Default",
+      "CSS": "--hmd-tw-raised-bg-default",
+      "description": "Use for raised elements",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Raised/Bg/Hover",
+      "CSS": "--hmd-tw-raised-bg-hover",
+      "description": "Use for hovered raised elements",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Raised/Icon/Default",
+      "CSS": "--hmd-tw-raised-icon-default",
+      "description": "Use for default raised icons",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Raised/Icon/Hover",
+      "CSS": "--hmd-tw-raised-icon-hover",
+      "description": "Use for hovered raised icons",
+      "lightValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      },
+      "darkValue": {
+        "name": "Zinc/50",
+        "value": "#fafafa"
+      }
+    },
+    {
+      "name": "State/Default/Background",
+      "CSS": "--hmd-tw-state-default-background",
+      "description": "Use for default state background",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "State/Danger/Default",
+      "CSS": "--hmd-tw-state-danger-default",
+      "description": "Use for danger state",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Default",
+      "CSS": "--hmd-tw-state-danger-bg-default",
+      "description": "Use for danger state background",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Hover",
+      "CSS": "--hmd-tw-state-danger-bg-hover",
+      "description": "Use for danger state background",
+      "lightValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Light",
+      "CSS": "--hmd-tw-state-danger-bg-light",
+      "description": "Use for light danger state background",
+      "lightValue": {
+        "name": "Red/75",
+        "value": "#feeeee"
+      },
+      "darkValue": {
+        "name": "Red/500/20%",
+        "value": "#ef444433"
+      }
+    },
+    {
+      "name": "State/Danger/Border/Default",
+      "CSS": "--hmd-tw-state-danger-border",
+      "description": "Use for danger state border",
+      "lightValue": {
+        "name": "Red/300",
+        "value": "#fca5a5"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Danger/Border/Subtle",
+      "CSS": "--hmd-tw-state-danger-border-subtle",
+      "description": "Use for light danger state border",
+      "lightValue": {
+        "name": "Red/200",
+        "value": "#fecaca"
+      },
+      "darkValue": {
+        "name": "rgba(239, 68, 68, .3)",
+        "value": "rgba(239, 68, 68, .3)"
+      }
+    },
+    {
+      "name": "State/Danger/Icon",
+      "CSS": "--hmd-tw-state-danger-icon",
+      "description": "Use for danger state icon",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Danger/Text",
+      "CSS": "--hmd-tw-state-danger-text",
+      "description": "Use for danger state text",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Info/Background",
+      "CSS": "--hmd-tw-state-info-background",
+      "description": "Use for info state background",
+      "lightValue": {
+        "name": "Sky/100",
+        "value": "#e0f2fe"
+      },
+      "darkValue": {
+        "name": "Sky/400/10%",
+        "value": "#38bdf81a"
+      }
+    },
+    {
+      "name": "State/Info/Border/Default",
+      "CSS": "--hmd-tw-state-info-border",
+      "description": "Use for info state border",
+      "lightValue": {
+        "name": "Sky/200",
+        "value": "#bae6fd"
+      },
+      "darkValue": {
+        "name": "Sky/600",
+        "value": "#0284c7"
+      }
+    },
+    {
+      "name": "State/Info/Border/Subtle",
+      "CSS": "--hmd-tw-state-info-border-subtle",
+      "description": "Use for light info state border",
+      "lightValue": {
+        "name": "Sky/200",
+        "value": "#bae6fd"
+      },
+      "darkValue": {
+        "name": "Sky/400/20%",
+        "value": "#38bdf833"
+      }
+    },
+    {
+      "name": "State/Info/Default",
+      "CSS": "--hmd-tw-state-info-default",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      },
+      "darkValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      }
+    },
+    {
+      "name": "State/Info/Icon",
+      "CSS": "--hmd-tw-state-info-icon",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      },
+      "darkValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      }
+    },
+    {
+      "name": "State/Info/Text",
+      "CSS": "--hmd-tw-state-info-text",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/600",
+        "value": "#0284c7"
+      },
+      "darkValue": {
+        "name": "Sky/400",
+        "value": "#38bdf8"
+      }
+    },
+    {
+      "name": "State/Success/Background",
+      "CSS": "--hmd-tw-state-success-background",
+      "description": "Use for success state background",
+      "lightValue": {
+        "name": "Emerald/75",
+        "value": "#e5fbef"
+      },
+      "darkValue": {
+        "name": "Emerald/400/15%",
+        "value": "#6bd19d26"
+      }
+    },
+    {
+      "name": "State/Success/Border/Default",
+      "CSS": "--hmd-tw-state-success-border",
+      "description": "Use for success state border",
+      "lightValue": {
+        "name": "Emerald/200",
+        "value": "#b8f1d2"
+      },
+      "darkValue": {
+        "name": "Emerald/600",
+        "value": "#43946c"
+      }
+    },
+    {
+      "name": "State/Success/Border/Sublte",
+      "CSS": "--hmd-tw-state-success-border-subtle",
+      "description": "Use for light success state border",
+      "lightValue": {
+        "name": "Emerald/200",
+        "value": "#b8f1d2"
+      },
+      "darkValue": {
+        "name": "Emerald/400/20%",
+        "value": "#6bd19d33"
+      }
+    },
+    {
+      "name": "State/Success/Default",
+      "CSS": "--hmd-tw-state-success-default",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Green/400",
+        "value": "#76d158"
+      },
+      "darkValue": {
+        "name": "Green/500",
+        "value": "#59c335"
+      }
+    },
+    {
+      "name": "State/Success/Icon",
+      "CSS": "--hmd-tw-state-success-icon",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Emerald/400",
+        "value": "#6bd19d"
+      },
+      "darkValue": {
+        "name": "Emerald/500",
+        "value": "#55b685"
+      }
+    },
+    {
+      "name": "State/Success/Text",
+      "CSS": "--hmd-tw-state-success-text",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Emerald/600",
+        "value": "#43946c"
+      },
+      "darkValue": {
+        "name": "Emerald/500",
+        "value": "#55b685"
+      }
+    },
+    {
+      "name": "State/Warning/Background",
+      "CSS": "--hmd-tw-state-warning-background",
+      "description": "Use for warning state background",
+      "lightValue": {
+        "name": "Amber/75",
+        "value": "#fef8dd"
+      },
+      "darkValue": {
+        "name": "Amber/400/10%",
+        "value": "#fbbf241a"
+      }
+    },
+    {
+      "name": "State/Warning/Border/Default",
+      "CSS": "--hmd-tw-state-warning-border",
+      "description": "Use for warning state border",
+      "lightValue": {
+        "name": "Amber/300",
+        "value": "#fcd34d"
+      },
+      "darkValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      }
+    },
+    {
+      "name": "State/Warning/Border/Sublte",
+      "CSS": "--hmd-tw-state-warning-sublte",
+      "description": "Use for light warning state border",
+      "lightValue": {
+        "name": "Amber/200",
+        "value": "#fde68a"
+      },
+      "darkValue": {
+        "name": "Amber/400/20%",
+        "value": "#fbbf2433"
+      }
+    },
+    {
+      "name": "State/Warning/Default",
+      "CSS": "--hmd-tw-state-warning-default",
+      "description": "Use for warning state text",
+      "lightValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      },
+      "darkValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      }
+    },
+    {
+      "name": "State/Warning/Icon",
+      "CSS": "--hmd-tw-state-danger-icon",
+      "description": "Use for warning state text",
+      "lightValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    },
+    {
+      "name": "State/Warning/Text",
+      "CSS": "--hmd-tw-state-danger-text",
+      "description": "Use for warning state text",
+      "lightValue": {
+        "name": "Amber/600",
+        "value": "#d97706"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    },
+    {
+      "name": "Text-mark/Comment/Default",
+      "CSS": "--hmd-tw-text-mark-comment-default",
+      "description": "Use for default comment text marks",
+      "lightValue": {
+        "name": "Primary/500/30%",
+        "value": "#564dff4d"
+      },
+      "darkValue": {
+        "name": "Primary/600/30%",
+        "value": "#453aff4d"
+      }
+    },
+    {
+      "name": "Text-mark/Comment/Selected",
+      "CSS": "--hmd-tw-text-mark-comment-selected",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Primary/500/45%",
+        "value": "#564dff73"
+      },
+      "darkValue": {
+        "name": "Primary/600/60%",
+        "value": "#453aff99"
+      }
+    },
+    {
+      "name": "Text-mark/Diff/Del",
+      "CSS": "--hmd-tw-text-mark-diff-del",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Red/100",
+        "value": "#fee2e2"
+      },
+      "darkValue": {
+        "name": "Red/500/20%",
+        "value": "#ef444433"
+      }
+    },
+    {
+      "name": "Text-mark/Diff/Ins",
+      "CSS": "--hmd-tw-text-mark-diff-ins",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/100",
+        "value": "#d9f9e5"
+      },
+      "darkValue": {
+        "name": "Emerald/400/30%",
+        "value": "#6bd19d4d"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Border",
+      "CSS": "--hmd-tw-text-mark-suggest-border",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/600",
+        "value": "#43946c"
+      },
+      "darkValue": {
+        "name": "Emerald/400",
+        "value": "#6bd19d"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Default",
+      "CSS": "--hmd-tw-text-mark-suggest-default",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/200",
+        "value": "#b8f1d2"
+      },
+      "darkValue": {
+        "name": "#40ff6a33",
+        "value": "#40ff6a33"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Selected",
+      "CSS": "--hmd-tw-text-mark-suggest-selected",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/300",
+        "value": "#8de4ba"
+      },
+      "darkValue": {
+        "name": "#40ff6a66",
+        "value": "#40ff6a66"
+      }
+    },
+    {
+      "name": "Logo",
+      "CSS": "--",
+      "description": "Use for logos",
+      "lightValue": {
+        "name": "Black",
+        "value": "#000000"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Overlay",
+      "CSS": "--hmd-tw-overlay",
+      "description": "Use for overlays",
+      "lightValue": {
+        "name": "rgba(0, 0, 0, .7)",
+        "value": "rgba(0, 0, 0, .7)"
+      },
+      "darkValue": {
+        "name": "000000b3",
+        "value": "#000000b3"
+      }
+    },
+    {
+      "name": "Pink",
+      "CSS": "--hmd-tw",
+      "description": "Use for pink accents",
+      "lightValue": {
+        "name": "Pink/500",
+        "value": "#ff288f"
+      },
+      "darkValue": {
+        "name": "Pink/400",
+        "value": "#ff4ca2"
+      }
+    },
+    {
+      "name": "Prime/Border",
+      "CSS": "--hmd-tw-border",
+      "description": "Use for prime borders",
+      "lightValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    },
+    {
+      "name": "Prime/Default",
+      "CSS": "--hmd-tw-default",
+      "description": "Use for prime elements",
+      "lightValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    }
+  ]
+}
